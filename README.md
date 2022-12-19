@@ -1,2 +1,1 @@
-# simple_shell
-Alx Project Work
+C-Simple shell
