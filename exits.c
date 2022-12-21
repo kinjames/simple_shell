@@ -1,3 +1,4 @@
+exits.c
 #include "shell.h"
 
 /**
