@@ -1,3 +1,4 @@
+shell.h
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
@@ -109,7 +110,7 @@ typedef struct builtin
 	char *type;
 	int (*func)(info_t *);
 } builtin_table;
-OA
+
 
 /* toem_shloop.c */
 int hsh(info_t *, char **);
